@@ -1,4 +1,10 @@
-Ts
+## Tweets & RTs
+
+### Do
+
+- Annoncer des événements ou des moments dans les événements (genre "hey on démarre notre super workshop")
+- participer aux conversations. pas obligation de dire merci systématiquement
+- RT les sujets intéressants sur le topic
 
 ### Don't
 
@@ -8,24 +14,18 @@ Ts
 - pas de RT systématique des autres comptes du CRI
 - PAS DE "c'est quoi ton problème, mec ?"
 
-### Do
-
-- Annoncer des événements ou des moments dans les événements (genre "hey on démarre notre super workshop")
-- participer aux conversations. pas obligation de dire merci systématiquement
-- RT les sujets intéressants sur le topic
-
-### A VOIR
+### TBD
 
 - livetweets
 
 ## Following
 
-### Don't
-
-- pas d'ajouts random mais seulement des personnes related au projet/topic
-- pas d'ajouts de compte org ou corpo sauf si conversation
-
 ### Do
 
 - ajouts des vrais gens (vérifier que le compte est actif et pas juste en mode lurking ou boucan)
 - ajouts des comptes du CRI
+
+### Don't
+
+- pas d'ajouts random mais seulement des personnes related au projet/topic
+- pas d'ajouts de compte org ou corpo sauf si conversation
