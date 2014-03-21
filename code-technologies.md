@@ -1,3 +1,7 @@
+## Repositories
+
+- USE GITHUB AND GITHUB ONLY.
+
 ## Typography
 
 - 
