@@ -1,6 +1,7 @@
 ## Repositories
 
-- USE GITHUB AND GITHUB ONLY.
+- USE GITHUB AND GITHUB ONLY
+- connect each repo with [travis](http://travis-ci.org) and [coveralls](http://coveralls.io)
 
 ## Typography
 
